@@ -1,1 +1,6 @@
-天堂|218.35.173.194|2000
+[update]
+ver=1001
+url=https://cowmama543.github.io/lineage-server/update.txt
+
+[list]
+ServerData0=5aSp5aCCfDIxOC4zNS4xNzMuMTk0fDIwMDA=
